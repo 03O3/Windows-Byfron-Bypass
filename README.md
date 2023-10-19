@@ -8,6 +8,33 @@ You need to install an older version of roblox in Microsoft store, which does no
 
 
 
+## How to start?
+
+Clone the project or download manually
+
+```bash
+  git clone https://github.com/03O3/Windows-Byfron-Bypass.git
+```
+
+Go to the project directory
+
+```bash
+  cd Windows-Byfron-Bypass
+```
+
+Install dependencies
+
+```bash
+  pip install requirements.txt
+```
+
+Start script
+
+```bash
+  python main.py
+```
+
+
 ## FAQ
 
 #### Internet Fix
